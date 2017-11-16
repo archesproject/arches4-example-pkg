@@ -1,0 +1,15 @@
+<Map background-color="transparent">
+	<Layer name="Lincoln 1886-1889">
+	    <StyleName>raster</StyleName>
+	    <Datasource>
+	        <Parameter name="type">gdal</Parameter>
+	        <Parameter name="file">town_plan_3857.vrt</Parameter>
+            <Parameter name="nodata">0</Parameter>
+	    </Datasource>
+	</Layer>
+	<Style name="raster">
+	    <Rule name="rule 1">
+	        <RasterSymbolizer opacity="1.0" scaling="bilinear" mode="normal" />
+	    </Rule>
+	</Style>
+</Map>

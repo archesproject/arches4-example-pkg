@@ -1,0 +1,965 @@
+<VRTDataset rasterXSize="39584" rasterYSize="90655">
+  <SRS>PROJCS["WGS 84 / Pseudo-Mercator",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433],AUTHORITY["EPSG","4326"]],PROJECTION["Mercator_1SP"],PARAMETER["central_meridian",0],PARAMETER["scale_factor",1],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],EXTENSION["PROJ4","+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs"],AUTHORITY["EPSG","3857"]]</SRS>
+  <GeoTransform> -6.1977828410551803e+04,  8.8296887851298106e-02,  0.0000000000000000e+00,  7.0284937662643241e+06,  0.0000000000000000e+00, -8.8296887851298106e-02</GeoTransform>
+  <VRTRasterBand dataType="Byte" band="1">
+    <ColorInterp>Palette</ColorInterp>
+    <ColorTable>
+      <Entry c1="255" c2="255" c3="255" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+      <Entry c1="0" c2="0" c3="0" c4="255" />
+    </ColorTable>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK96506825.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4812" RasterYSize="4824" DataType="Byte" BlockXSize="4812" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4812" ySize="4824" />
+      <DstRect xOff="0" yOff="85156" xSize="4812" ySize="4824" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK96506850.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4812" RasterYSize="4824" DataType="Byte" BlockXSize="4812" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4812" ySize="4824" />
+      <DstRect xOff="95" yOff="80427" xSize="4812" ySize="4824" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK96506875.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4812" RasterYSize="4824" DataType="Byte" BlockXSize="4812" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4812" ySize="4824" />
+      <DstRect xOff="190" yOff="75698" xSize="4813" ySize="4825" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK96506900.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4812" RasterYSize="4824" DataType="Byte" BlockXSize="4812" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4812" ySize="4824" />
+      <DstRect xOff="285" yOff="70969" xSize="4813" ySize="4825" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK96506925.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4812" RasterYSize="4824" DataType="Byte" BlockXSize="4812" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4812" ySize="4824" />
+      <DstRect xOff="381" yOff="66239" xSize="4813" ySize="4825" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK96506950.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4812" RasterYSize="4824" DataType="Byte" BlockXSize="4812" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4812" ySize="4824" />
+      <DstRect xOff="476" yOff="61509" xSize="4813" ySize="4825" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK96507125.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4812" RasterYSize="4824" DataType="Byte" BlockXSize="4812" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4812" ySize="4824" />
+      <DstRect xOff="1143" yOff="28394" xSize="4815" ySize="4827" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK96507150.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4812" RasterYSize="4824" DataType="Byte" BlockXSize="4812" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4812" ySize="4824" />
+      <DstRect xOff="1238" yOff="23662" xSize="4815" ySize="4827" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK96507175.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4812" RasterYSize="4824" DataType="Byte" BlockXSize="4812" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4812" ySize="4824" />
+      <DstRect xOff="1333" yOff="18930" xSize="4816" ySize="4828" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK96756825.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4824" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4824" />
+      <DstRect xOff="4717" yOff="85251" xSize="4813" ySize="4824" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK96756850.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4824" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4824" />
+      <DstRect xOff="4812" yOff="80522" xSize="4813" ySize="4824" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK96756875.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4824" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4824" />
+      <DstRect xOff="4908" yOff="75793" xSize="4814" ySize="4825" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK96756900.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4824" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4824" />
+      <DstRect xOff="5003" yOff="71064" xSize="4814" ySize="4825" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK96756925.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4824" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4824" />
+      <DstRect xOff="5099" yOff="66335" xSize="4814" ySize="4825" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK96756950.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4824" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4824" />
+      <DstRect xOff="5194" yOff="61605" xSize="4814" ySize="4825" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK96757125.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4824" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4824" />
+      <DstRect xOff="5863" yOff="28490" xSize="4816" ySize="4827" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK96757150.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4824" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4824" />
+      <DstRect xOff="5958" yOff="23758" xSize="4816" ySize="4827" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK96757175.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4824" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4824" />
+      <DstRect xOff="6054" yOff="19026" xSize="4817" ySize="4828" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK96757200.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4824" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4824" />
+      <DstRect xOff="6149" yOff="14294" xSize="4817" ySize="4828" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK96757225.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4824" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4824" />
+      <DstRect xOff="6245" yOff="9561" xSize="4817" ySize="4828" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK96757250.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4824" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4824" />
+      <DstRect xOff="6341" yOff="4829" xSize="4817" ySize="4828" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97006825.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4824" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4824" />
+      <DstRect xOff="9434" yOff="85347" xSize="4813" ySize="4824" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97006850.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="9530" yOff="80618" xSize="4813" ySize="4825" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97006875.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="9625" yOff="75889" xSize="4814" ySize="4826" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97006900.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="9721" yOff="71160" xSize="4814" ySize="4826" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97006925.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="9817" yOff="66430" xSize="4814" ySize="4826" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97006950.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="9912" yOff="61701" xSize="4814" ySize="4826" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97006975.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="10008" yOff="56971" xSize="4815" ySize="4827" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97007000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="10104" yOff="52240" xSize="4815" ySize="4827" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97007025.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="10200" yOff="47510" xSize="4815" ySize="4827" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97007050.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="10295" yOff="42779" xSize="4815" ySize="4827" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97007075.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="10391" yOff="38048" xSize="4816" ySize="4828" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97007100.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="10487" yOff="33317" xSize="4816" ySize="4828" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97007125.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="10583" yOff="28586" xSize="4816" ySize="4828" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97007150.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="10678" yOff="23854" xSize="4816" ySize="4828" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97007175.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="10774" yOff="19122" xSize="4817" ySize="4829" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97007200.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="10870" yOff="14390" xSize="4817" ySize="4829" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97007225.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="10966" yOff="9657" xSize="4817" ySize="4829" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97007250.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="11062" yOff="4925" xSize="4817" ySize="4829" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97256900.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="14439" yOff="71256" xSize="4814" ySize="4826" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97256925.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="14535" yOff="66526" xSize="4814" ySize="4826" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97256950.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="14631" yOff="61797" xSize="4814" ySize="4826" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97256975.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="14726" yOff="57067" xSize="4814" ySize="4827" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97257000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="14822" yOff="52337" xSize="4815" ySize="4827" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97257025.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="14918" yOff="47606" xSize="4815" ySize="4827" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97257050.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="15014" yOff="42875" xSize="4815" ySize="4827" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97257075.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="15110" yOff="38144" xSize="4816" ySize="4828" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97257100.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="15206" yOff="33413" xSize="4816" ySize="4828" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97257125.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="15302" yOff="28682" xSize="4816" ySize="4828" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97257150.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="15399" yOff="23950" xSize="4816" ySize="4828" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97257175.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="15495" yOff="19218" xSize="4817" ySize="4829" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97257200.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="15591" yOff="14486" xSize="4817" ySize="4829" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97257225.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="15687" yOff="9754" xSize="4817" ySize="4829" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97257250.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="15783" yOff="5021" xSize="4817" ySize="4829" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97257275.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="15879" yOff="288" xSize="4818" ySize="4830" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97506900.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="19156" yOff="71352" xSize="4814" ySize="4826" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97506925.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="19253" yOff="66623" xSize="4814" ySize="4826" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97506950.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="19349" yOff="61893" xSize="4814" ySize="4826" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97506975.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="19445" yOff="57163" xSize="4814" ySize="4826" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97507000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="19541" yOff="52433" xSize="4815" ySize="4827" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97507025.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="19637" yOff="47702" xSize="4815" ySize="4827" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97507050.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="19734" yOff="42972" xSize="4815" ySize="4827" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97507075.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="19830" yOff="38241" xSize="4815" ySize="4828" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97507100.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="19926" yOff="33510" xSize="4816" ySize="4828" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97507125.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="20022" yOff="28778" xSize="4816" ySize="4828" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97507150.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="20119" yOff="24047" xSize="4816" ySize="4828" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97507175.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="20215" yOff="19315" xSize="4817" ySize="4829" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97507200.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="20311" yOff="14582" xSize="4817" ySize="4829" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97507225.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="20408" yOff="9850" xSize="4817" ySize="4829" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97507250.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="20504" yOff="5117" xSize="4817" ySize="4829" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97507275.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4813" RasterYSize="4825" DataType="Byte" BlockXSize="4813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4813" ySize="4825" />
+      <DstRect xOff="20600" yOff="384" xSize="4818" ySize="4830" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97756975.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4825" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4825" />
+      <DstRect xOff="24163" yOff="57260" xSize="4815" ySize="4826" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97757000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4825" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4825" />
+      <DstRect xOff="24260" yOff="52529" xSize="4816" ySize="4827" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97757025.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4825" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4825" />
+      <DstRect xOff="24356" yOff="47799" xSize="4816" ySize="4827" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97757050.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4825" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4825" />
+      <DstRect xOff="24453" yOff="43068" xSize="4816" ySize="4827" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97757075.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4825" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4825" />
+      <DstRect xOff="24549" yOff="38337" xSize="4816" ySize="4827" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97757100.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4825" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4825" />
+      <DstRect xOff="24646" yOff="33606" xSize="4817" ySize="4828" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97757125.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4825" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4825" />
+      <DstRect xOff="24742" yOff="28875" xSize="4817" ySize="4828" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97757150.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4825" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4825" />
+      <DstRect xOff="24839" yOff="24143" xSize="4817" ySize="4828" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97757175.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4825" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4825" />
+      <DstRect xOff="24935" yOff="19411" xSize="4817" ySize="4829" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97757200.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4825" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4825" />
+      <DstRect xOff="25032" yOff="14679" xSize="4818" ySize="4829" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97757225.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4825" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4825" />
+      <DstRect xOff="25129" yOff="9947" xSize="4818" ySize="4829" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97757250.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4825" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4825" />
+      <DstRect xOff="25225" yOff="5214" xSize="4818" ySize="4829" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK97757275.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4825" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4825" />
+      <DstRect xOff="25322" yOff="481" xSize="4819" ySize="4830" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK98007050.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4826" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4826" />
+      <DstRect xOff="29172" yOff="43165" xSize="4816" ySize="4828" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK98007075.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4826" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4826" />
+      <DstRect xOff="29269" yOff="38434" xSize="4816" ySize="4828" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK98007100.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4826" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4826" />
+      <DstRect xOff="29365" yOff="33703" xSize="4817" ySize="4829" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK98007125.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4826" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4826" />
+      <DstRect xOff="29462" yOff="28972" xSize="4817" ySize="4829" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK98007150.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4826" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4826" />
+      <DstRect xOff="29559" yOff="24240" xSize="4817" ySize="4829" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK98007175.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4826" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4826" />
+      <DstRect xOff="29656" yOff="19508" xSize="4817" ySize="4829" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK98007200.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4826" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4826" />
+      <DstRect xOff="29753" yOff="14776" xSize="4818" ySize="4830" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK98257050.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4826" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4826" />
+      <DstRect xOff="33891" yOff="43262" xSize="4816" ySize="4828" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK98257075.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4826" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4826" />
+      <DstRect xOff="33988" yOff="38531" xSize="4816" ySize="4828" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK98257100.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4826" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4826" />
+      <DstRect xOff="34085" yOff="33800" xSize="4817" ySize="4829" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK98257125.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4826" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4826" />
+      <DstRect xOff="34182" yOff="29069" xSize="4817" ySize="4829" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK98257150.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4826" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4826" />
+      <DstRect xOff="34279" yOff="24337" xSize="4817" ySize="4829" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK98257175.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4826" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4826" />
+      <DstRect xOff="34376" yOff="19605" xSize="4817" ySize="4829" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/21SK98257200.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4814" RasterYSize="4826" DataType="Byte" BlockXSize="4814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4814" ySize="4826" />
+      <DstRect xOff="34473" yOff="14873" xSize="4818" ySize="4830" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/town_plan_3857.vrt</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="39563" RasterYSize="90608" DataType="Byte" BlockXSize="128" BlockYSize="128" />
+      <SrcRect xOff="0" yOff="0" xSize="39563" ySize="90608" />
+      <DstRect xOff="0" yOff="0" xSize="39584" ySize="90655" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">/Users/dwuthrich/Downloads/town_plan_3857/townplan_1887_1888.vrt</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="39532" RasterYSize="90538" DataType="Byte" BlockXSize="39532" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="39532" ySize="90538" />
+      <DstRect xOff="0" yOff="0" xSize="39583" ySize="90655" />
+    </SimpleSource>
+  </VRTRasterBand>
+</VRTDataset>

@@ -1,0 +1,81 @@
+LOGIN IN: admin/admin (superuser)
+
+
+MANAGING DATA: Demo adding new resources from the New_Monuments.txt file
+
+    1. Add Name (don't include type) then demo going back and adding a type
+    2. Add Creation and Destruction Date (don't save and try to go to a different form)
+    3. Go to Location form 
+        - Demo the different basemaps available, pick "Emerald" (all managable via CLI)
+        - Demo the Geocoder (It's near the "David Chiddick" building)
+    3. Add the rest of the data ()
+    4. Refresh page and demo update of displayed name 
+    5. Show recent edits page
+    5. Add related resource (go to location form and see that there is a nearby monument)
+        Search for "Late Saxon" and "Brayford" "Late Saxon-early medieval pits, Brayford Wharf East"
+        Notice that you can't add the relationship.
+        Fix this by opening a new window to manage that setting
+
+        Related from 150 to 410 AD
+
+        ??Depending on time we could related to another resource called "Late saxon dumps, Brayfor Wharf East"
+
+    6. Point out other functions 
+        Copy Resource
+        Delete
+        View Report
+
+
+
+SEARCH: There are many different ways to search for data in Arches
+
+    Text Search Example: "Brayford"
+
+        Describe "and" search - type additional term "east" - notice reduction in results
+
+        Inverted Example: invert "east"
+
+    -- Explain the search results and display on map
+        Edit Link
+        Map Link
+        Related Resources Link
+        
+    Term Search Example: "Brayford Bridge"
+    
+    Concept Search Example: "Early Saxon" (Early Midieval)
+    
+    Time Search Example:
+        Show time wheel
+    
+    Map Search Example: 
+
+        Polygon search NE corner of Lincoln (community near Wragby Rd. Outer Circle Rd.) - 3 Results  
+            show inverted results - 5981 results
+
+        Line search search waterway just east of "Melville St.", 
+            show reduced buffer of 10ft
+
+
+    "Finally, let's search for the resource we just added with the text 'roman', then 'dump', then 'brayford' "
+
+    "Show searching for the concept 'Midden (Domestic)' finds the item"
+    Otherwise known as a "landfill"
+    Search for "landfill"
+
+RDM: 
+
+    Search for "MIDDEN (DOMESTIC)"
+
+    Add "altLabel" - "Landfill"
+
+    Show how searching for resource with "Landfill" returns the resource just added above
+
+    Explain ConceptScheme Methods
+        Add Scheme
+        Import Scheme ("Mena") on desktop
+        Export Scheme ("Mena")
+        Delete Scheme ("Mena")
+
+    Let's add "Temporary" as a "Name Type"
+
+
