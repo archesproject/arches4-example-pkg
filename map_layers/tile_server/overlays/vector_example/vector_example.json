@@ -1,0 +1,37 @@
+{
+    "type": "vector",
+    "layers": [{
+        "id": "example_layer",
+        "type": "fill",
+        "source": "example_layer",
+        "source-layer": "example_layer",
+        "layout": {
+            "visibility": "visible"
+        },
+        "paint": {
+            "fill-color": "rgb(255, 0, 0)",
+            "fill-opacity": 0.5
+        }
+    }],
+    "config": {
+        "provider": {
+            "class": "TileStache.Goodies.VecTiles:Provider",
+            "kwargs": {
+                "dbinfo": {
+                    "host": "localhost",
+                    "user": "postgres",
+                    "password": "postgis",
+                    "database": "arches",
+                    "port": "5432"
+                },
+                "simplify": 0.5,
+                "queries": [
+                    "select gid as __id__, site_name, arches_description, st_asgeojson(geom) as geojson, st_transform(geom, 900913) as __geometry__ from example_layer"
+                ]
+            }
+        },
+        "allowed origin": "*",
+        "compress": true,
+        "write cache": false
+    }
+}
