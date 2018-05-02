@@ -26,7 +26,7 @@
                 },
                 "simplify": 0.5,
                 "queries": [
-                    "select gid as __id__, site_name, arches_description, st_asgeojson(geom) as geojson, st_transform(geom, 900913) as __geometry__ from example_layer"
+                    "select gid as __id__, site_name, feature_info_content, st_asgeojson(geom) as geojson, st_transform(geom, 900913) as __geometry__ from example_layer"
                 ]
             }
         },
