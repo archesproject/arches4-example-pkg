@@ -1,18 +1,72 @@
 {
     "type": "vector",
-    "layers": [{
-        "id": "example_layer",
-        "type": "fill",
-        "source": "example_layer",
-        "source-layer": "example_layer",
-        "layout": {
-            "visibility": "visible"
-        },
-        "paint": {
-            "fill-color": "rgb(255, 0, 0)",
-            "fill-opacity": 0.5
-        }
-    }],
+    "layers": [
+        	{
+        		"layout": {
+        			"visibility": "visible"
+        		},
+        		"paint": {
+        			"fill-color": "rgb(255, 0, 0)",
+        			"fill-opacity": 0.5
+        		},
+        		"source": "example_layer",
+        		"source-layer": "example_layer",
+        		"type": "fill",
+        		"id": "example_layer"
+        	},
+        	{
+        		"layout": {
+        			"visibility": "visible"
+        		},
+        		"source": "example_layer",
+        		"filter": [
+        			"all",
+        			[
+        				"==",
+        				"$type",
+        				"Polygon"
+        			],
+        			[
+        				"==",
+        				"_featureid",
+        				""
+        			]
+        		],
+        		"paint": {
+        			"fill-color": "rgb(0, 255, 0)",
+        			"fill-opacity": 0.5
+        		},
+        		"source-layer": "example_layer",
+        		"type": "fill",
+        		"id": "example_layer-hover"
+        	},
+        		{
+        		"layout": {
+        			"visibility": "visible"
+        		},
+        		"source": "example_layer",
+        		"filter": [
+        			"all",
+        			[
+        				"==",
+        				"$type",
+        				"Polygon"
+        			],
+        			[
+        				"==",
+        				"_featureid",
+        				""
+        			]
+        		],
+        		"paint": {
+        			"fill-color": "rgb(0, 0, 255)",
+        			"fill-opacity": 0.5
+        		},
+        		"source-layer": "example_layer",
+        		"type": "fill",
+        		"id": "example_layer-click"
+        	}
+    ],
     "config": {
         "provider": {
             "class": "TileStache.Goodies.VecTiles:Provider",
@@ -26,7 +80,7 @@
                 },
                 "simplify": 0.5,
                 "queries": [
-                    "select gid as __id__, site_name, feature_info_content, st_asgeojson(geom) as geojson, st_transform(geom, 900913) as __geometry__ from example_layer"
+                    "select gid as __id__, gid as _featureid, site_name, feature_info_content, st_asgeojson(geom) as geojson, st_transform(geom, 900913) as __geometry__ from example_layer"
                 ]
             }
         },
